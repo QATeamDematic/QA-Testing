@@ -1,5 +1,5 @@
 {
-  "window.zoomLevel": -2,
+  "window.zoomLevel": -1,
   "editor.tabSize": 2,
   "files.exclude": {
     "**/.DS_Store": true,
@@ -42,5 +42,6 @@
   "typescript.tsdk": "node_modules/typescript/lib",
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
-  }
+  },
+  "github-enterprise.uri": "https://dev.azure.com"
 }
