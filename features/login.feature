@@ -1,8 +1,8 @@
 @foo
-Feature: Login
+Feature: Login to Deployer
 
-  Scenario: Login to the KION application
+  Scenario: Login to the Deployer application
 
-    Given user navigates to KION application
-    When user login to KION application with valid credentials
+    Given user navigates to Deployer application
+    When user login to Deployer application with valid credentials
     Then user see the homepage
