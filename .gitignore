@@ -72,3 +72,6 @@ traces/
 build
 dist/
 docs/
+
+.vs
+.bin
