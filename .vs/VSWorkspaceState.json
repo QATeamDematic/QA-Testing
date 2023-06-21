@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src"
+    "\\features",
+    "\\src",
+    "\\src\\steps"
   ],
+  "SelectedNode": "\\src\\steps\\api.steps.ts",
   "PreviewInSolutionExplorer": false
 }
