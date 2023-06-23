@@ -7,8 +7,9 @@ Feature: Create new project associated with Site
     When user login to Deployer application with valid credentials
     Then user click on Project
     And user click on Create Project button
-    Then User put Project Name
-    And User put Customer, Solution
+    Then user put Project Name
+    And user put Customer, Solution
     Then user put Site Name from the dropdown
-    And Put Project Manager, Project Number and Commissioning Date
-    Then user click add button
+    And put Project Manager, Project Number and Commissioning Date
+    Then user click the add button
+    And user will get a success message
