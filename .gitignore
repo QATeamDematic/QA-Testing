@@ -72,3 +72,7 @@ traces/
 build
 dist/
 docs/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
